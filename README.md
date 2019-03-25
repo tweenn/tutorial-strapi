@@ -119,7 +119,6 @@ Nele existe um menu de navegação à esquerda onde encontraremos tudo que vamos
 
 <br />
 <br />
-<br />
 
 
 > * Em "Content Type Builder" (imagem abaixo), click em "Add Content Type" no canto superior direito 
@@ -246,7 +245,6 @@ Agora que temos um tipo de conteúdo "Trivia", podemos clicar no menu esquerdo e
 
 <br />
 <br />
-<br />
 
 
 > * Após entrar no menu de Trivias, click em "Add new Trivia" no canto superior direito
@@ -269,4 +267,60 @@ Agora que temos um tipo de conteúdo "Trivia", podemos clicar no menu esquerdo e
 <br />
 
 
-## 5 - Permissões da API
+## 6 - Permissões da API
+
+### 6.1 - Dando/Removendo permissões
+
+Agora que temos um tipo de conteúdo "Trivia", podemos clicar no menu esquerdo em "Roles & Permissions", na seção de "Plugins"
+
+
+<br />
+<br />
+
+
+> * Na seção de "Roles & Permissions", na lista de tipos de usuários, click no ícone de lápis, na direita, na linha do tipo "Public"
+> 
+> <br />
+> 
+> <img src="./docs/images/11-permissoes.jpg" width="800" />
+
+
+<br />
+<br />
+<br />
+
+
+> * Do meio da tela para baixo, na zona de "Permissions", existe uma lista de check-boxes para o tipo de conteúdo "Trivia", marque:
+>   * find
+>   * findone
+> * Click em "Save" no campo superior direito da tela
+> 
+> <br />
+> 
+> <img src="./docs/images/12-permissoes-publicas.jpg" width="800" />
+
+
+<br />
+<br />
+<br />
+
+
+### 6.2 - Testando permissões
+
+
+Se você seguiu os passos das seções:
+
+* [5 - Adicionando Conteúdo](#5---Adicionando-Conteudo)
+* [6.1 - Dando/Removendo permissões](#6.1---DandoRemovendo-permissões)
+
+
+<br />
+<br />
+
+
+> * Em uma nova aba, acesse http://localhost:1337/trivias/
+> * A Trivia criada deve ser acessível via "API"
+> 
+> <br />
+> 
+> <img src="./docs/images/15-get-api.jpg" width="800" />
