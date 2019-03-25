@@ -61,7 +61,7 @@ Se tudo deu certo, abra seu navegador e entre em http://localhost:1337/admin
 
 ### 2.4 - Configurando o administrador
 
-<img src="./docs/images/01-login.jpg" width="600" />
+<img src="./docs/images/01-login.jpg" width="800" />
 
 1. Defina o "login" / apelido do seu usuário, que será usado para autenticação sempre
 1. Insira uma senha
@@ -74,7 +74,7 @@ Se tudo deu certo, abra seu navegador e entre em http://localhost:1337/admin
 
 ### 3.1 - Painél de Administração
 
-<img src="./docs/images/02-painel-administrador.jpg" width="600" />
+<img src="./docs/images/02-painel-administrador.jpg" width="800" />
 
 Essa é a principal visualização do CMS STRAPI.
 <br />
@@ -85,40 +85,60 @@ Nele existe um menu de navegação à esquerda onde encontraremos tudo que vamos
 * No painél de administração, no menu à esquerda, click em "Content Type Builder"
 
 
-<img src="./docs/images/03-tipos-conteudo.jpg" width="600" />
+<br />
+<br />
+<br />
 
+<img src="./docs/images/03-tipos-conteudo.jpg" width="800" />
 
 * Em "Content Type Builder" (imagem acima), click em "Add Content Type" no canto superior direito 
 
 
-<img src="./docs/images/04-novo-tipo-conteudo.jpg" width="600" />
+<br />
+<br />
+<br />
+
+<img src="./docs/images/04-novo-tipo-conteudo.jpg" width="800" />
 
 
 * Uma modal irá aparecer, requisitando que dê um nome ao seu novo "Content Type"
 * Feito isso, click em "Save"
 
 
-<img src="./docs/images/05-tipo-conteudo-vazio.jpg" width="600" />
+<br />
+<br />
+<br />
 
+<img src="./docs/images/05-tipo-conteudo-vazio.jpg" width="800" />
 
 * A tela vai mudar, a modal vai sumir e agora click em "Add new Field"
 
 
-<img src="./docs/images/06-adicionar-campos.jpg" width="600" />
+<br />
+<br />
+<br />
+
+<img src="./docs/images/06-adicionar-campos.jpg" width="800" />
 
 * Uma extensa lista com tipos de campos vai aparecer. Para este tutorial, vou abordar inicialmente campos do tipo "String" e "Text"
 * Click em "String"
 
 
-<img src="./docs/images/07-adicionar-string.jpg" width="600" />
+<br />
+<br />
+<br />
 
+<img src="./docs/images/07-adicionar-string.jpg" width="800" />
 
 * Na nova janela, coloque como nome do campo "trivia"
 * E depois na aba "Advanced Settings"
 
 
-<img src="./docs/images/08-adicionar-string-avancado.jpg" width="600" />
+<br />
+<br />
+<br />
 
+<img src="./docs/images/08-adicionar-string-avancado.jpg" width="800" />
 
 * Na nova aba, marque:
   * "Required Field"
@@ -128,33 +148,59 @@ Nele existe um menu de navegação à esquerda onde encontraremos tudo que vamos
 * Click em "+ Add new field"
 
 
-<img src="./docs/images/06-adicionar-campos.jpg" width="600" />
+<br />
+<br />
+<br />
+
+<img src="./docs/images/06-adicionar-campos.jpg" width="800" />
 
 
 * Voltamos a tela de tipos de campos, click em "Text"
 
-<img src="./docs/images/07-adicionar-string.jpg" width="600" />
+<br />
+<br />
+<br />
+
+<img src="./docs/images/07-adicionar-string.jpg" width="800" />
 
 
 * Na nova janela, coloque como nome do campo "descricao"
 * E depois na aba "Advanced Settings"
 
 
-<img src="./docs/images/09-adicionar-texto-avancado.jpg" width="600" />
+<br />
+<br />
+<br />
 
+<img src="./docs/images/09-adicionar-texto-avancado.jpg" width="800" />
 
 * Na nova aba, marque:
   * "Display as a WYSIWYG"
 * Click em "Continue"
 
 
-<img src="./docs/images/10-tipo-conteudo-cheio.jpg" width="600" />
+<br />
+<br />
+<br />
 
+<img src="./docs/images/10-tipo-conteudo-cheio.jpg" width="800" />
 
 * Agora que temos dois campos para o nosso tipo de conteúdo, click em "Save" no canto superior direito.
 
 
-<img src="./docs/images/13-adicionar-conteudo.jpg" width="600" />
+<br />
+<br />
+<br />
 
-<img src="./docs/images/14-nova-entrada.jpg" width="600" />
+<img src="./docs/images/13-adicionar-conteudo.jpg" width="800" />
+
+<br />
+<br />
+<br />
+
+<img src="./docs/images/14-nova-entrada.jpg" width="800" />
+
+<br />
+<br />
+<br />
 
