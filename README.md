@@ -310,8 +310,8 @@ Agora que temos um tipo de conteúdo "Trivia", podemos clicar no menu esquerdo e
 
 Se você seguiu os passos das seções:
 
-* [5 - Adicionando Conteúdo](#5---Adicionando-Conteudo)
-* [6.1 - Dando/Removendo permissões](#6.1---DandoRemovendo-permissões)
+* [5 - Adicionando Conteúdo](#5---adicionando-conteúdo)
+* [6.1 - Dando/Removendo permissões](#61---dandoremovendo-permissões)
 
 
 <br />
@@ -324,3 +324,61 @@ Se você seguiu os passos das seções:
 > <br />
 > 
 > <img src="./docs/images/15-get-api.jpg" width="800" />
+
+<br />
+<br />
+<br />
+
+
+## 7 - Bônus!
+
+### 7.1 - Suporte à outras linguas
+
+
+Zuntini, você está de sacanagem que você me fez seguir o tutorial todo em inglês quando havia uma opção para traduzir o painél todo para português!
+<br />
+Sim, fiz!
+<br />
+Uma vez que o que vou mostrar a seguir só funciona para a interface e não para os plugins ou para todas as partes do sistema, preferi usar a interface em inglês para o tutorial ;p
+
+
+<br />
+<br />
+
+> * No menu lateral esquerdo, opção "Configuration", na aba "Language", existem algumas das linguas que podem ser usada para grande parte do sistema
+> * Mas no canto superior direito, ao lado do nome do seu usuário (no meu caso, felipe), existe uma bandeira, click nela e selecione pt-br
+> 
+> <br />
+> 
+> <img src="./docs/images/16-linguas.jpg" width="800" />
+
+
+<br />
+<br />
+<br />
+
+> * Deixando assim a bandeira verde e amarela selecionada e grande parte da interface em nossa língua maravilhosa
+> 
+> <br />
+> 
+> <img src="./docs/images/17-portugues.jpg" width="800" />
+
+
+<br />
+<br />
+<br />
+
+
+### 7.2 - Documentação
+
+
+No menu lateral esquerdo, na opção "Marketplace" é possível encontrar vários plugins legais para a STRAPI
+
+<br />
+<br />
+
+> * Um deles é o plugin de documentação, que gera uma documentação no visual SWAGGER, que pode ou não ser aberta (dá para colocar senha) - mas que não pretendo me aprofundar muito
+> 
+> <br />
+> 
+> <img src="./docs/images/18-documentacao.jpg" width="800" />
