@@ -89,63 +89,71 @@ Nele existe um menu de navegação à esquerda onde encontraremos tudo que vamos
 <br />
 <br />
 
-<img src="./docs/images/03-tipos-conteudo.jpg" width="800" />
 
-* Em "Content Type Builder" (imagem acima), click em "Add Content Type" no canto superior direito 
-
-
-<br />
-<br />
-<br />
-
-<img src="./docs/images/04-novo-tipo-conteudo.jpg" width="800" />
-
-
-* Uma modal irá aparecer, requisitando que dê um nome ao seu novo "Content Type"
-* Feito isso, click em "Save"
+> * Em "Content Type Builder" (imagem acima), click em "Add Content Type" no canto superior direito 
+> <br />
+> 
+> <img src="./docs/images/03-tipos-conteudo.jpg" width="800" />
 
 
 <br />
 <br />
 <br />
 
-<img src="./docs/images/05-tipo-conteudo-vazio.jpg" width="800" />
 
-* A tela vai mudar, a modal vai sumir e agora click em "Add new Field"
-
-
-<br />
-<br />
-<br />
-
-<img src="./docs/images/06-adicionar-campos.jpg" width="800" />
-
-* Uma extensa lista com tipos de campos vai aparecer. Para este tutorial, vou abordar inicialmente campos do tipo "String" e "Text"
-* Click em "String"
+> * Uma modal irá aparecer, requisitando que dê um nome ao seu novo "Content Type"
+> * Feito isso, click em "Save"
+> <br />
+> 
+> <img src="./docs/images/04-novo-tipo-conteudo.jpg" width="800" />
 
 
 <br />
 <br />
 <br />
 
-<img src="./docs/images/07-adicionar-string.jpg" width="800" />
-
-* Na nova janela, coloque como nome do campo "trivia"
-* E depois na aba "Advanced Settings"
+> * A tela vai mudar, a modal vai sumir e agora click em "Add new Field"
+> <br />
+> 
+> <img src="./docs/images/05-tipo-conteudo-vazio.jpg" width="800" />
 
 
 <br />
 <br />
 <br />
 
-<img src="./docs/images/08-adicionar-string-avancado.jpg" width="800" />
+> * Uma extensa lista com tipos de campos vai aparecer. Para este tutorial, vou abordar inicialmente campos do tipo "String" e "Text"
+> * Click em "String"
+> <br />
+> 
+> <img src="./docs/images/06-adicionar-campos.jpg" width="800" />
 
-* Na nova aba, marque:
-  * "Required Field"
-  * "Unique Field"
-  * Minimum Length
-    * 5
-* Click em "+ Add new field"
+
+<br />
+<br />
+<br />
+
+> * Na nova janela, coloque como nome do campo "trivia"
+> * E depois na aba "Advanced Settings"
+> <br />
+> 
+> <img src="./docs/images/07-adicionar-string.jpg" width="800" />
+
+
+<br />
+<br />
+<br />
+
+
+> * Na nova aba, marque:
+>   * "Required Field"
+>   * "Unique Field"
+>   * Minimum Length
+>     * 5
+> * Click em "+ Add new field"
+> <br />
+>
+> <img src="./docs/images/08-adicionar-string-avancado.jpg" width="800" />
 
 
 <br />
