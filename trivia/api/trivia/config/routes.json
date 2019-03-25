@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/trivias",
+      "handler": "Trivia.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/trivias/count",
+      "handler": "Trivia.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/trivias/:_id",
+      "handler": "Trivia.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/trivias",
+      "handler": "Trivia.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/trivias/:_id",
+      "handler": "Trivia.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/trivias/:_id",
+      "handler": "Trivia.destroy",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
