@@ -7,6 +7,12 @@ Neste tutorial eu não pretendo cobrir como instalar os seguintes softwares que 
 * [MongoDb](https://www.mongodb.com/)
 * [Node.js](https://nodejs.org/en/)
 
+
+<br />
+<br />
+<br />
+
+
 ## 2 - Primeiros passos
 
 ### 2.1 - Instalando o CLI
@@ -16,6 +22,12 @@ Para começar, vamos instalar o STRAPI globalmente
 ```shell
 npm install strapi@alpha -g
 ```
+
+
+<br />
+<br />
+<br />
+
 
 ### 2.2 - Iniciando o projeto
 
@@ -27,7 +39,7 @@ strapi new trivia
 
 <img src="./docs/images/00-installing.jpg" width="400" />
 
-Conforme a imagem acima, a sequencia de escolhas acima foi a seguinte:
+Conforme a imagem acima, a sequencia de escolhas foi a seguinte:
 1. Choose your instalation type:
 	* Custom (manual settings)
 1. Choose your main database
@@ -50,6 +62,11 @@ Conforme a imagem acima, a sequencia de escolhas acima foi a seguinte:
 	* false
 
 
+<br />
+<br />
+<br />
+
+
 ### 2.3 - Rodando o servidor localmente
 
 ```shell
@@ -58,6 +75,12 @@ strapi start;
 ```
 
 Se tudo deu certo, abra seu navegador e entre em http://localhost:1337/admin
+
+
+<br />
+<br />
+<br />
+
 
 ### 2.4 - Configurando o administrador
 
@@ -70,6 +93,11 @@ Se tudo deu certo, abra seu navegador e entre em http://localhost:1337/admin
 1. Click em "ready to start" para finalizar a instalação
 
 
+<br />
+<br />
+<br />
+
+
 ## 3 - Conhecendo a STRAPI
 
 ### 3.1 - Painél de Administração
@@ -79,6 +107,10 @@ Se tudo deu certo, abra seu navegador e entre em http://localhost:1337/admin
 Essa é a principal visualização do CMS STRAPI.
 <br />
 Nele existe um menu de navegação à esquerda onde encontraremos tudo que vamos precisar neste tutorial.
+
+<br />
+<br />
+<br />
 
 ## 4 - Adicionando Tipos de Conteúdo
 
@@ -90,7 +122,7 @@ Nele existe um menu de navegação à esquerda onde encontraremos tudo que vamos
 <br />
 
 
-> * Em "Content Type Builder" (imagem acima), click em "Add Content Type" no canto superior direito 
+> * Em "Content Type Builder" (imagem abaixo), click em "Add Content Type" no canto superior direito 
 > <br />
 > 
 > <img src="./docs/images/03-tipos-conteudo.jpg" width="800" />
@@ -160,55 +192,81 @@ Nele existe um menu de navegação à esquerda onde encontraremos tudo que vamos
 <br />
 <br />
 
-<img src="./docs/images/06-adicionar-campos.jpg" width="800" />
 
-
-* Voltamos a tela de tipos de campos, click em "Text"
-
-<br />
-<br />
-<br />
-
-<img src="./docs/images/07-adicionar-string.jpg" width="800" />
-
-
-* Na nova janela, coloque como nome do campo "descricao"
-* E depois na aba "Advanced Settings"
+> * Voltamos a tela de tipos de campos, click em "Text"
+> <br />
+> 
+> <img src="./docs/images/06-adicionar-campos.jpg" width="800" />
 
 
 <br />
 <br />
 <br />
 
-<img src="./docs/images/09-adicionar-texto-avancado.jpg" width="800" />
 
-* Na nova aba, marque:
-  * "Display as a WYSIWYG"
-* Click em "Continue"
-
-
-<br />
-<br />
-<br />
-
-<img src="./docs/images/10-tipo-conteudo-cheio.jpg" width="800" />
-
-* Agora que temos dois campos para o nosso tipo de conteúdo, click em "Save" no canto superior direito.
+> * Na nova janela, coloque como nome do campo "descricao"
+> * E depois na aba "Advanced Settings"
+> <br />
+> 
+> <img src="./docs/images/07-adicionar-string.jpg" width="800" />
 
 
 <br />
 <br />
 <br />
 
-<img src="./docs/images/13-adicionar-conteudo.jpg" width="800" />
+
+> * Na nova aba, marque:
+>   * "Display as a WYSIWYG"
+> * Click em "Continue"
+> <br />
+> 
+> <img src="./docs/images/09-adicionar-texto-avancado.jpg" width="800" />
+
 
 <br />
 <br />
 <br />
 
-<img src="./docs/images/14-nova-entrada.jpg" width="800" />
+> * Agora que temos dois campos para o nosso tipo de conteúdo, click em "Save" no canto superior direito.
+> <br />
+> 
+> <img src="./docs/images/10-tipo-conteudo-cheio.jpg" width="800" />
+
 
 <br />
 <br />
 <br />
 
+
+## 5 - Adicionando Conteúdo
+
+Agora que temos um tipo de conteúdo "Trivia", podemos clicar no menu esquerdo em "Trivias", primeira opção em baixo de "Content Types"
+
+
+<br />
+<br />
+<br />
+
+
+> * Após entrar no menu de Trivias, click em "Add new Trivia" no canto superior direito
+> 
+> <br />
+> 
+> <img src="./docs/images/13-adicionar-conteudo.jpg" width="800" />
+
+<br />
+<br />
+<br />
+
+> * Dê um nome e uma descrição à sua nova entrada e click em "Save" no canto superior direito
+> <br />
+> 
+> <img src="./docs/images/14-nova-entrada.jpg" width="800" />
+
+<br />
+<br />
+<br />
+
+
+## 5 - Permissões da API
