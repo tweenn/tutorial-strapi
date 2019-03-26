@@ -177,7 +177,7 @@ Nele existe um menu de navegação à esquerda onde encontraremos tudo que vamos
 <br />
 
 > * Uma extensa lista com tipos de campos vai aparecer. Para este tutorial, vou abordar inicialmente campos do tipo "String" e "Text"
-> * clique em "String"
+> * Clique em "String"
 > <br />
 > 
 > <img src="./docs/images/06-adicionar-campos.jpg" width="800" />
