@@ -113,7 +113,7 @@ Se tudo deu certo, abra seu navegador e entre em http://localhost:1337/admin
 1. Insira uma senha
 1. Confirme a senha
 1. Adicione um email para validar seu usuário
-1. Click em "ready to start" para finalizar a instalação
+1. Clique em "ready to start" para finalizar a instalação
 
 
 <br />
@@ -137,14 +137,14 @@ Nele existe um menu de navegação à esquerda onde encontraremos tudo que vamos
 
 ## 4 - Adicionando Tipos de Conteúdo
 
-* No painél de administração, no menu à esquerda, click em "Content Type Builder"
+* No painél de administração, no menu à esquerda, clique em "Content Type Builder"
 
 
 <br />
 <br />
 
 
-> * Em "Content Type Builder" (imagem abaixo), click em "Add Content Type" no canto superior direito 
+> * Em "Content Type Builder" (imagem abaixo), clique em "Add Content Type" no canto superior direito 
 > <br />
 > 
 > <img src="./docs/images/03-tipos-conteudo.jpg" width="800" />
@@ -156,7 +156,7 @@ Nele existe um menu de navegação à esquerda onde encontraremos tudo que vamos
 
 
 > * Uma modal irá aparecer, requisitando que dê um nome ao seu novo "Content Type"
-> * Feito isso, click em "Save"
+> * Feito isso, clique em "Save"
 > <br />
 > 
 > <img src="./docs/images/04-novo-tipo-conteudo.jpg" width="800" />
@@ -177,7 +177,7 @@ Nele existe um menu de navegação à esquerda onde encontraremos tudo que vamos
 <br />
 
 > * Uma extensa lista com tipos de campos vai aparecer. Para este tutorial, vou abordar inicialmente campos do tipo "String" e "Text"
-> * Click em "String"
+> * clique em "String"
 > <br />
 > 
 > <img src="./docs/images/06-adicionar-campos.jpg" width="800" />
@@ -204,7 +204,7 @@ Nele existe um menu de navegação à esquerda onde encontraremos tudo que vamos
 >   * "Unique Field"
 >   * Minimum Length
 >     * 5
-> * Click em "+ Add new field"
+> * Clique em "+ Add new field"
 > <br />
 >
 > <img src="./docs/images/08-adicionar-string-avancado.jpg" width="800" />
@@ -215,7 +215,7 @@ Nele existe um menu de navegação à esquerda onde encontraremos tudo que vamos
 <br />
 
 
-> * Voltamos a tela de tipos de campos, click em "Text"
+> * Voltamos a tela de tipos de campos, clique em "Text"
 > <br />
 > 
 > <img src="./docs/images/06-adicionar-campos.jpg" width="800" />
@@ -240,7 +240,7 @@ Nele existe um menu de navegação à esquerda onde encontraremos tudo que vamos
 
 > * Na nova aba, marque:
 >   * "Display as a WYSIWYG"
-> * Click em "Continue"
+> * Clique em "Continue"
 > <br />
 > 
 > <img src="./docs/images/09-adicionar-texto-avancado.jpg" width="800" />
@@ -250,7 +250,7 @@ Nele existe um menu de navegação à esquerda onde encontraremos tudo que vamos
 <br />
 <br />
 
-> * Agora que temos dois campos para o nosso tipo de conteúdo, click em "Save" no canto superior direito.
+> * Agora que temos dois campos para o nosso tipo de conteúdo, clique em "Save" no canto superior direito.
 > <br />
 > 
 > <img src="./docs/images/10-tipo-conteudo-cheio.jpg" width="800" />
@@ -270,7 +270,7 @@ Agora que temos um tipo de conteúdo "Trivia", podemos clicar no menu esquerdo e
 <br />
 
 
-> * Após entrar no menu de Trivias, click em "Add new Trivia" no canto superior direito
+> * Após entrar no menu de Trivias, clique em "Add new Trivia" no canto superior direito
 > 
 > <br />
 > 
@@ -280,7 +280,7 @@ Agora que temos um tipo de conteúdo "Trivia", podemos clicar no menu esquerdo e
 <br />
 <br />
 
-> * Dê um nome e uma descrição à sua nova entrada e click em "Save" no canto superior direito
+> * Dê um nome e uma descrição à sua nova entrada e clique em "Save" no canto superior direito
 > <br />
 > 
 > <img src="./docs/images/14-nova-entrada.jpg" width="800" />
@@ -301,7 +301,7 @@ Agora que temos um tipo de conteúdo "Trivia", podemos clicar no menu esquerdo e
 <br />
 
 
-> * Na seção de "Roles & Permissions", na lista de tipos de usuários, click no ícone de lápis, na direita, na linha do tipo "Public"
+> * Na seção de "Roles & Permissions", na lista de tipos de usuários, clique no ícone de lápis, na direita, na linha do tipo "Public"
 > 
 > <br />
 > 
@@ -316,7 +316,7 @@ Agora que temos um tipo de conteúdo "Trivia", podemos clicar no menu esquerdo e
 > * Do meio da tela para baixo, na zona de "Permissions", existe uma lista de check-boxes para o tipo de conteúdo "Trivia", marque:
 >   * find
 >   * findone
-> * Click em "Save" no campo superior direito da tela
+> * Clique em "Save" no campo superior direito da tela
 > 
 > <br />
 > 
@@ -369,7 +369,7 @@ Uma vez que o que vou mostrar a seguir só funciona para a interface e não para
 <br />
 
 > * No menu lateral esquerdo, opção "Configuration", na aba "Language", existem algumas das linguas que podem ser usada para grande parte do sistema
-> * Mas no canto superior direito, ao lado do nome do seu usuário (no meu caso, felipe), existe uma bandeira, click nela e selecione pt-br
+> * Mas no canto superior direito, ao lado do nome do seu usuário (no meu caso, felipe), existe uma bandeira, clique nela e selecione pt-br
 > 
 > <br />
 > 
