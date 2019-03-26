@@ -166,7 +166,7 @@ Nele existe um menu de navegação à esquerda onde encontraremos tudo que vamos
 <br />
 <br />
 
-> * A tela vai mudar, a modal vai sumir e agora click em "Add new Field"
+> * A tela vai mudar, a modal vai sumir e agora clique em "Add new Field"
 > <br />
 > 
 > <img src="./docs/images/05-tipo-conteudo-vazio.jpg" width="800" />
